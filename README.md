@@ -4,7 +4,7 @@
 
 ## Información del estudiante
 
-Paul A. Valle [05211261]; paul.valle@tectijuana.edu.mx
+Santiago Lopez  [22212260]; l22212260@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
