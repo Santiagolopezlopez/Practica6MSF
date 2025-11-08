@@ -42,7 +42,7 @@ y con las siguientes condiciones iniciales:
 
 
 
-Palabras clave: ?; ?; ?; ?; ?.
+Palabras clave: Globulos rojos; matlab; transfusion; sin transfusion.
 
 ## Lista de archivos incluidos en el repositorio
 
